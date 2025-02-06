@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="413e0e41-42b4-41a1-b017-749c5a84b2b5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/styled_timer_stopwatch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/styled_timer_stopwatch.iml" afterDir="false" />
+    <list default="true" id="413e0e41-42b4-41a1-b017-749c5a84b2b5" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/test-styled-timer-stopwatch.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styled_timer_stopwatch.py" beforeDir="false" afterPath="$PROJECT_DIR$/styled_timer_stopwatch.py" afterDir="false" />
@@ -23,23 +23,29 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "pyLexxDramma"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;pyLexxDramma&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/pyLexxDramma/styled_timer_stopwatch.git",
-    "accountId": "63b81aff-3564-4ff0-9eaa-2dfdc5a64c0d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/pyLexxDramma/styled_timer_stopwatch.git&quot;,
+    &quot;accountId&quot;: &quot;63b81aff-3564-4ff0-9eaa-2dfdc5a64c0d&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2sd5Tv74hP171ioSML1aDFqNXEw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -51,11 +57,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python tests.Python tests in test-styled-timer-stopwatch.py.executor": "Run",
     "Python.styled_timer_stopwatch.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/netology_p120/styled_timer_stopwatch"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -74,6 +82,19 @@
       <option name="presentableId" value="Default" />
       <updated>1738772622349</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1738818739159</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738818739159</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
